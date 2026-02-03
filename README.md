@@ -109,68 +109,7 @@ Opportunity / Risk Zones
 Index Contribution (SQL)
 ```
 
+Author
 
-## 📐 Key Analytics Explained
-
-### 1️⃣ Daily Returns & Volatility
-
-* Calculates percentage returns
-* Annualizes volatility using √252
-* Builds the foundation for all risk analysis
-
-**Why it matters:**
-
-> Raw prices don’t show risk — volatility does.
-
----
-
-### 2️⃣ Gap Risk & Holiday Impact
-
-* Detects gap‑up and gap‑down openings
-* Identifies post‑holiday trading days
-* Compares normal vs post‑holiday gap behavior
-
-**Why it matters:**
-
-> Most extreme moves occur after non‑trading periods.
-
----
-
-### 3️⃣ Trend & Drawdown Detection
-
-* Uses moving averages for trend regimes
-* Measures drawdown from peak prices
-* Identifies maximum downside risk
-
-**Why it matters:**
-
-> Returns attract attention, drawdowns destroy capital.
-
----
-
-### 4️⃣ Opportunity Zone Identification
-
-* Combines volatility + trend
-* Flags:
-
-  * High‑Opportunity zones
-  * High‑Risk zones
-  * Normal market regimes
-
-**Why it matters:**
-
-> Not all volatility is bad — context matters.
-
----
-
-### 5️⃣ Index Contribution (SQL)
-
-* Decomposes index movement
-* Attributes returns to individual stocks
-* Identifies concentration risk
-
-**Why it matters:**
-
-> Index moves are often driven by a few heavy‑weight stocks.
-
----
+Name – Mayur Santosh Ichake                  
+Email: mayurichake4@gmail.com   
