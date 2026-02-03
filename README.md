@@ -83,7 +83,7 @@ Market Risk & Opportunity Intelligence System (MROIS)
 |     └── 07_Market_data.sql   
 │  
 │
-└── Charts/                 # Visualizations (optional)
+└── Charts/                 # Visualizations Real time Chart
       ├──Nifty 50  Last 30 years Data
       └──Nifty 50 2025-26 Data
 ```
