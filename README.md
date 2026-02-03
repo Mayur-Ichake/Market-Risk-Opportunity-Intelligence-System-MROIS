@@ -80,6 +80,7 @@ Market Risk & Opportunity Intelligence System (MROIS)
 │   └── 08_opportunity_zones.py
 │
 ├── SQL/                     # Working on SQL
+|     └── 07_Market_data.sql   
 │  
 │
 └── Charts/                 # Visualizations (optional)
