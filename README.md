@@ -110,7 +110,7 @@ Opportunity / Risk Zones
 Index Contribution (SQL)
 ```
 
-Author
+Author:
 
 Name – Mayur Santosh Ichake                  
 Email: mayurichake4@gmail.com   
